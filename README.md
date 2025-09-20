@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumareddy-1234/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumareddy-1234/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sumareddy-1234/Leetcode/tree/master/0414-third-maximum-number) |
+| [1646-kth-missing-positive-number](https://github.com/sumareddy-1234/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sumareddy-1234/Leetcode/tree/master/0268-missing-number) |
+| [1646-kth-missing-positive-number](https://github.com/sumareddy-1234/Leetcode/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
