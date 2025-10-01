@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sumareddy-1234/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/sumareddy-1234/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sumareddy-1234/Leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -51,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sumareddy-1234/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/sumareddy-1234/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1646-kth-missing-positive-number](https://github.com/sumareddy-1234/Leetcode/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
